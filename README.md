@@ -16,7 +16,7 @@ A simple and lightweight utility to adjust the Field of View (FOV) in ArmA 3.
 2. Open `ArmA-FOV-changer.exe`.
 3. Select your ArmA 3 profile and then the corresponding `.ArmA3Profile` file.
 4. Input your desired FOV value.
-5. Click apply (or press the designated hotkey).
+5. Click apply.
 
 ## Bug Reports & Support
 
