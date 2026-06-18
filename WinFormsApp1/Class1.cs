@@ -5,7 +5,6 @@ namespace WinFormsApp1
 {
     public static class FovCalculator
     {
-        // Notice this method is 'public static' and returns a tuple with both values
         public static (string FovTop, string FovLeft) CalculateArmaFov(double width, double height, double desiredFOV, bool oldFovCalculation)
         {
             (double fovTop, double fovLeft) fovRatios;

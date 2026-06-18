@@ -86,10 +86,5 @@ namespace WinFormsApp1
                 MessageBox.Show("Please make sure Width, Height, and FOV are valid numbers.", "Input Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
-
-        private void fov_textbox_TextChanged(object sender, EventArgs e)
-        {
-
-        }
     }
 }

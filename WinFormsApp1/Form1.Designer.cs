@@ -55,7 +55,6 @@
             fov_textbox.TabIndex = 13;
             fov_textbox.Text = "70";
             fov_textbox.TextAlign = HorizontalAlignment.Center;
-            fov_textbox.TextChanged += fov_textbox_TextChanged;
             // 
             // width_textbox
             // 
@@ -200,7 +199,7 @@
             ForeColor = SystemColors.ControlLight;
             FormBorderStyle = FormBorderStyle.FixedToolWindow;
             Name = "window";
-            Text = "Arma 3 Utils";
+            Text = "Arma FOV changer";
             Load += Form1_Lod;
             ResumeLayout(false);
             PerformLayout();
